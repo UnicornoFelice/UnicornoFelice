@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnicornoFelice
 - 👀 I’m interested in programming
 <!---  - 🌱 I’m currently learning - 💞️ I’m looking to collaborate on   --->
-- 📫 How to reach me: Disciord "Sweet#7503"
+- 📫 How to reach me: Discord "Sweet#7503"
 
 <!---
 UnicornoFelice/UnicornoFelice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
