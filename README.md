@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @UnicornoFelice
 - 👀 I’m interested in programming
-<!---  - 🌱 I’m currently learning
-       - 💞️ I’m looking to collaborate on   --->
+<!---  - 🌱 I’m currently learning - 💞️ I’m looking to collaborate on   --->
 - 📫 How to reach me: Disciord "Sweet#7503"
 
 <!---
